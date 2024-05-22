@@ -1,1 +1,1 @@
-7z a -tzip -r -x!.git -x!.gitignore -x!.travis.yml -x!release.bat flixel-ui.zip
+7z a -tzip -r -x!.git -x!.gitignore -x!.travis.yml -x!release.bat flixel-addons.zip
